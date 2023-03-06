@@ -58,3 +58,4 @@ def swapBitsTwoSolutions(solutions):
 print(solutions)
 print(swapBitsTwoSolutions(solutions))
 
+# test
